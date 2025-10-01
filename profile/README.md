@@ -1,4 +1,12 @@
-<img src="https://github.com/user-attachments/assets/b175bf39-23cb-475d-a6e1-7b5c99a1ed72" alt="pythonbpf">  
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/user-attachments/assets/f3738131-d7cb-4b5c-8699-c7010295a159"
+    alt="Light‐mode image">
+  <img
+    src="https://github.com/user-attachments/assets/b175bf39-23cb-475d-a6e1-7b5c99a1ed72"
+    alt="Dark‐mode image">
+</picture>
 
 Welcome to the **Python-BPF Organization**, home to projects that enable writing, compiling, and running **eBPF programs entirely in Python**. Our tools allow Python developers to work directly with the Linux kernel’s eBPF infrastructure without writing C code, bridging the gap between high-level scripting and low-level system programming.
 
